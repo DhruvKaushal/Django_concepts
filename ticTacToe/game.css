@@ -9,7 +9,7 @@
     justify-content: center;
 }
 
-.cells{
+td{
     height: 125px;
     width: 125px;
     text-align: center;
